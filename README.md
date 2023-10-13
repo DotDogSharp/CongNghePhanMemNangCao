@@ -8,3 +8,5 @@ Tăng năng suất và hiệu quả làm việc. Khi biết mình có bao nhiêu
 Giảm stress và lo lắng. Thời gian biểu giúp bạn kiểm soát thời gian tốt hơn, không bị đột ngột, giảm áp lực hoàn thành công việc.
 Giúp thực hiện mục tiêu. Nếu lên thời gian biểu hướng tới mục tiêu, bạn sẽ dễ dàng biết mình cần làm gì hàng ngày để đạt được mục tiêu đó.
 Nói chung, lập thời gian biểu sẽ giúp cuộc sống và công việc của bạn trở nên khoa học, hiệu quả và thành công hơn. Bạn nên dành thời gian lập kế hoạch và thực hiện theo đúng thời gian biểu để có kết quả tốt nhất.
+
+![DongTuTiengAnh](https://github.com/DotDogSharp/CongNghePhanMemNangCao/assets/96678203/ae97a46f-5280-4a9c-80da-6307ac90fd1b)
